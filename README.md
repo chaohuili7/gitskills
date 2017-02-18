@@ -1,2 +1,2 @@
 # gitskills
-help me
+help me and help yourself!
